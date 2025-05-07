@@ -1,13 +1,8 @@
 ## 👩🏼‍💻 Bruna Gonçalves | Dev
 <p> 
-  Software Engineer with 8+ years of experience, including over 4+ years in consultancy across e-commerce, hospitality, finance, enterprise sectors, etc...
+Software Engineer, 8+ years building full-stack apps , including over 4+ years in consultancy across e-commerce, hospitality, finance, enterprise sectors, etc...
 </p>
-
-<details>
-  <summary>🧰 Developer</summary>  
-  - 8+ years building full-stack apps 
-  - Passionate about sytem design, cloud computing & devops 
-</details>
+<p> Passionate about sytem design, cloud computing & devops </p>
 
 
 ### 📍 Current Focus
