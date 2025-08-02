@@ -1,15 +1,5 @@
-## 👩🏼‍💻 Bruna Gonçalves | Dev
-<p> 
-Software Engineer, 8+ years building full-stack apps , including over 4+ years in consultancy across e-commerce, hospitality, finance, enterprise sectors, etc...
-</p>
-<p> Passionate about sytem design, cloud computing & devops </p>
+## 👩🏼‍💻 Bruna Gonçalves | Software Web Development + Developer Experience (DevEx)
 
-
-### 📍 Current Focus
-Building a _Serverless Developer Portal_ with Spotify Backstage, integrating Cloud CI/CD, monitoring & DevOps best practices.
-
-
-### 🔭 Tech Stack
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
