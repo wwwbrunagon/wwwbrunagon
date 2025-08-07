@@ -1,4 +1,8 @@
-## 👩🏼‍💻 Software / Web Development + Developer Experience (DevEx)
+## Workflow Engineering • Backstage Portals • Automation 
+
+<h3>
+  Founder at<a href="https://b2plusiac.tech/" target="_blank"> B++ </a>
+</h3>
 
 ### 📫 Contact
 <p>
