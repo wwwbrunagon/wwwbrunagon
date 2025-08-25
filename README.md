@@ -1,6 +1,6 @@
 ## Web Design & Development | Automation Workflow + AI Solutions | Dev Experience
 <h3>
-  Check it out >>  <a href="https://b2plusiac.tech/" target="_blank"> B++ </a>
+  Check it out >>  <a href="https://b2plusiac.vercel.app/" target="_blank"> B++ </a>
 </h3>
 
 ### 📫 Contact
